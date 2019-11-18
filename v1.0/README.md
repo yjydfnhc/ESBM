@@ -1,5 +1,7 @@
-# ESBM Benchmark v1.0 (Last update: 2018-07-27)
+# ESBM Benchmark v1.0 
 https://w3id.org/esbm/1.0 
+
+Last update: 2018-07-27
 
 License: [ODC Attribution License (ODC-By)](https://opendatacommons.org/licenses/by/1-0/index.html)
 
